@@ -1,7 +1,7 @@
 # 📡 DiverMate（潜兵伴侣）—— 超级地球科技部 · 个人战术辅助终端
 
 **型号：DM-1 | 状态：已批准列装 | 配发对象：全体潜兵**
-
+[![cover](/intro-pics/zh/Cover.png)](https://github.com/upupzealot/diver-mate-release/releases/latest)
 [下载最新版本 >>](https://github.com/upupzealot/diver-mate-release/releases/latest)
 
 ## 🎯 当前已实装战术模块
