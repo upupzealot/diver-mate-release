@@ -2,6 +2,8 @@
 
 **型号：DM-1 | 状态：已批准列装 | 配发对象：全体潜兵**
 
+[下载最新版本 >>](https://github.com/upupzealot/diver-mate-release/releases/latest)
+
 ## 🎯 当前已实装战术模块
 
 ### 模块一 · 一键战备快速响应（基础模块）
