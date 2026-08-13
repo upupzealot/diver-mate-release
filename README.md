@@ -1,11 +1,12 @@
 # 📡 DiverMate – Ministry of Science · Personal Tactical Assistance Terminal
 
 **Model: DM-1 | Status: Approved for Field Deployment | Issued to: All Helldivers**
+![cover](/intro-pics/Cover.png)
 
 ## 🎯 Currently Deployed Tactical Modules
 
 ### Module I · One-Key Stratagem Rapid Response (Base Module)
-
+<img src="/intro-pics/Overview.jpg" width="600">
 - **F1 ~ F4**: Dynamically mapped to in-game stratagem slots 1–4
 - **F5**: Reinforcements (customizable)
 - **F6**: Resupply (customizable)
@@ -13,7 +14,7 @@
 - All 108 currently deployed stratagems are pre-configured; stratagem codes will be updated in sync with future deployments
 
 ### Module II · Visual-Sync Stratagem System (Core Module)
-
+<img src="/intro-pics/In-Game Selection.jpg" width="600">
 Conventional tactical assistance terminals suffer from a critical flaw: **the Helldiver adjusts their stratagem loadout before a Hell Dive, but the terminal has no idea.** The result? You hit a key and it spits out the stratagem code from the _last_ mission. This is a textbook case of "human-machine information desynchronization" – a direct violation of the Ministry of Science Combat Efficiency Regulations.
 
 The Visual-Sync module of this terminal solves this problem:
@@ -27,15 +28,15 @@ The Visual-Sync module of this terminal solves this problem:
 ### Module III · Voice-Call Module (Beta · Frontline Data Collection Program)
 
 > _"While your hand pulls the trigger of Democracy, don't forget that your mouth also belongs to Super Earth. – Ministry of Science Audio Engineering Group"_
-
+<img src="/intro-pics/Voice Call.jpg" width="600">
 This terminal also features an experimental voice recognition module. Hold down the call key and shout the name of a stratagem – the terminal will automatically trigger the call.
 
 - **Recognition Scope Limited**: The terminal only recognizes the 4 stratagems carried for the current dive, preventing large lexicon mis-calls.
-- **Custom Stratagem Aliases**: Find "Orbital Walking Barrage" too much of a mouthful? Want to call it "Carpet"? Whether it's slang, a code word, or a pet name – it's all Democracy being delivered; what you call it doesn't really matter.
+- **Custom Stratagem Aliases**: Find "Orbital Walking Barrage" too much of a mouthful? Want to call it "Carpet"? Whether it's slang, a code word, or a pet name – it's all Democracy being delivered; what you call it doesn't really matter.<img src="/intro-pics/Stratagem Alias.jpg" width="600">
 - **Beta Invitation**: Every call helps refine Democracy's delivery efficiency. The Ministry of Science looks forward to your frontline feedback.
 
 ### Module IV · Democratic Database (Alpha · Data Access Pending Approval)
-
+<img src="/intro-pics/Database.jpg" width="600">
 > _"Know yourself, know your enemy, and you can deliver Democracy with precision. – This statement has itself been approved by the Ministry of Truth. Additional strategic data access is pending approval."_
 
 This terminal is currently applying for access to the Super Earth Strategic Intelligence Database. Upon approval, DiverMate will provide the following battlefield information support:
