@@ -1,7 +1,7 @@
 # 📡 DiverMate – Ministry of Science · Personal Tactical Assistance Terminal
 
 **Model: DM-1 | Status: Approved for Field Deployment | Issued to: All Helldivers**
-![cover](/intro-pics/Cover.png)
+[![cover](/intro-pics/Cover.png)](https://github.com/upupzealot/diver-mate-release/releases/latest)
 
 ## 🎯 Currently Deployed Tactical Modules
 
